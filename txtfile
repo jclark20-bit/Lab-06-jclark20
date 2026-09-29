@@ -1,0 +1,17 @@
+1. while do is appropraite for this first code because the menu needs to be displayed at least once, so you use a while do for that exact reason
+1. the menu is garunteed to appear at least once 
+1. if im selecting multiple choices then i would use a switch statement for the code 
+2. -1 is skipped
+999 is when the loop terminates 
+9 and 18 never got processed?
+it had 4 completed stops 
+quick had one stop, normal had 2, long had 1 
+total time should be like 59 minutes but rouding to an hour 
+3. initilizaing the smallest to 0 would be incorrect because all the values are postiive, if you started at 0 every number would be bigger than 0
+the values that smallest and largest should have is the value after the first input
+2 comparisons occur value < smalllest and value < largest
+4. the outer loop executes 3 times 
+inner loop should execute 4 times 
+the total values that are printed are 12
+row * coloums generates the numbers
+5. 
